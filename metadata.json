@@ -1,0 +1,6 @@
+{
+  "name": "Image Picker Wheel",
+  "description": "Game random image picker wheel interaktif dengan roda berputar tanpa celah, latar belakang adaptif, upload foto, dan pengaturan posisi gambar presisi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
